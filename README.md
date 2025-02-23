@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Training QA<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>🌱 I’m currently learning QA Testing<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently Training QA<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Automation Testing<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
