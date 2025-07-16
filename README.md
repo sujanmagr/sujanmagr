@@ -1,21 +1,20 @@
-<h1 align="center">
-  Hi there 👋, I'm <span style="color:#38bdf8;"><b>Sachin Budhathoki</b></span>
-</h1>
+<h1 align="center">Hey 👋, I'm Sachin Budhathoki</h1>
+<p align="center"><i>An aspiring QA Engineer | Passionate about Automation, APIs, and Clean Testing Frameworks</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=QA+Engineer+in+Training;Automation+Testing+Enthusiast;Learning+Selenium+%7C+JMeter+%7C+Postman;Building+Smarter+Tests+Every+Day+%F0%9F%94%8A" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=QA+Engineer+in+Training;Automation+Testing+Enthusiast;Learning+Selenium+%7C+JMeter+%7C+Postman;Always+Breaking+to+Improve+%F0%9F%94%A5" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🧪 Passionate about **Software Testing & QA Automation**
-- 🌱 Currently learning: **Selenium**, **JMeter**, **Postman**, **Python**
-- 👨‍💻 Working on test automation for **Web, API, and Performance**
-- ✅ Focused on clean, modular, scalable test writing
-- 💬 Ask me about **SDLC**, **Bug Reporting**, **API Validation**
-- ⚡ Fun Fact: I love breaking apps just to make them better 💣
+- 🔭 Currently building QA automation projects with Selenium & Postman  
+- 🌱 Learning performance testing using JMeter  
+- 🛠️ Practicing test case writing, bug reports & test planning  
+- 💡 Exploring ML use in QA (sentiment analysis & smart test suggestion)  
+- 🎯 Focused on clean, maintainable, and scalable test automation  
+- 🎉 Always ready to collaborate and contribute!
 
 ---
 
@@ -35,7 +34,7 @@
 
 ---
 
-### 🛠️ My Tech Toolbox
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -56,20 +55,25 @@
 
 ---
 
-### 🌟 Featured Projects
+### 🏆 Project Spotlight: YatriGhar
 
-#### 🔹 [YatriGhar – Hotel Booking Platform](https://github.com/sujanmagr/YatriGhar)
-Final-year project: hotel listing + booking.  
-**Coming Soon:** AI recommendation & review sentiment analysis  
-<img src="https://media.giphy.com/media/v1.YOUR-GIF1-ID/giphy.gif" alt="YatriGhar Demo" width="90%" />
+🚗 A full-featured hotel booking platform built as my final-year project.  
+💡 Features:
+- Room listing, booking system, location filter  
+- Currently integrating hotel recommendation (AI)  
+- Sentiment analysis for guest reviews (coming soon)  
 
-#### 🔹 [Ekantipur Automation QA](https://github.com/sujanmagr/ekantipur-automation)
-Automated login/signup/article flow with Selenium & Pytest  
-<img src="https://media.giphy.com/media/v1.YOUR-GIF2-ID/giphy.gif" alt="Ekantipur QA Demo" width="90%" />
+🔗 [View Repository](https://github.com/sujanmagr/YatriGhar)
 
-#### 🔹 [Partner Portal QA Flow](https://github.com/sujanmagr/partner-portal-qa)
-Multi-step registration automation (up to Step 4: Preferences)  
-<img src="https://media.giphy.com/media/v1.YOUR-GIF3-ID/giphy.gif" alt="Partner Portal Demo" width="90%" />
+---
+
+<details>
+  <summary>📁 Other Projects</summary>
+
+- 🔹 [Ekantipur Automation QA](https://github.com/sujanmagr/ekantipur-automation): Login/signup/article testing with Selenium  
+- 🔹 [Partner Portal QA Flow](https://github.com/sujanmagr/partner-portal-qa): Multi-step form automation & validation
+
+</details>
 
 ---
 
@@ -83,7 +87,7 @@ Multi-step registration automation (up to Step 4: Preferences)
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sujanmagr&show_icons=true&theme=radical" />
@@ -105,6 +109,19 @@ Multi-step registration automation (up to Step 4: Preferences)
 
 ---
 
+### 🗺️ What’s Next for Me
+
+- 🚀 Finish ML integration in YatriGhar project  
+- 🧪 Write more real-world test cases from live projects  
+- 📄 Contribute to open-source QA repositories  
+- 🖼️ Improve UI testing with Selenium Grid & BrowserStack  
+- 📚 Write technical blogs on my learning journey
+
 ---
 
-_✨ If you made it this far, thanks for visiting my profile! Feel free to reach out to collaborate on QA or dev projects._ 🙌
+### 🙌 Thanks for visiting my profile!
+
+If you're into QA, testing, or automation — feel free to connect and chat!  
+_“Good testers don’t just find bugs, they prevent them.”_
+
+---
