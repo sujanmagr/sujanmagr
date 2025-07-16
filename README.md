@@ -105,19 +105,6 @@ Multi-step registration automation (up to Step 4: Preferences)
 
 ---
 
-### 💡 What’s Next
-
-<p align="center">
-
-| 🚀 Enhancement            | 📌 Description |
-|--------------------------|----------------|
-| **More GIFs**            | Add demos for other scripts/projects |
-| **Tech Animation**       | Integrate [GitHub Readme Metrics](https://github.com/lowlighter/metrics) |
-| **Blog/Articles**        | Share links to testing tips, guides, or dev journeys |
-| **More Certifications**  | ISTQB Advanced, Selenium Pro, etc. |
-
-</p>
-
 ---
 
 _✨ If you made it this far, thanks for visiting my profile! Feel free to reach out to collaborate on QA or dev projects._ 🙌
