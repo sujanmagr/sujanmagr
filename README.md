@@ -1,5 +1,9 @@
+<p align="center">
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eee8609d-d8ce-49d8-94e7-fbf18f7ecfb7" />
+</p>
+
 <h1 align="center">Hey 👋, I'm Sachin Budhathoki</h1>
-<p align="center"><i>An aspiring QA Engineer | Passionate about Automation, APIs, and Clean Testing Frameworks</i></p>
+<p align="center"><i>QA Engineer in the Making | Automation | APIs | Scalable Testing Solutions</i></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=QA+Engineer+in+Training;Automation+Testing+Enthusiast;Learning+Selenium+%7C+JMeter+%7C+Postman;Always+Breaking+to+Improve+%F0%9F%94%A5" />
@@ -9,75 +13,78 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building QA automation projects with Selenium & Postman  
-- 🌱 Learning performance testing using JMeter  
-- 🛠️ Practicing test case writing, bug reports & test planning  
-- 💡 Exploring ML use in QA (sentiment analysis & smart test suggestion)  
-- 🎯 Focused on clean, maintainable, and scalable test automation  
-- 🎉 Always ready to collaborate and contribute!
+- 🔭 Building QA automation with **Selenium**, **PyTest**, and **Postman**  
+- 🌱 Exploring **performance testing** via **JMeter**  
+- 🛠️ Practicing test case design, bug reporting & planning  
+- 🤖 Investigating **AI/ML for smarter QA**  
+- 🧼 Writing **clean, maintainable, scalable** code  
+- 🧠 Always learning and adapting!
 
 ---
 
-### 🌐 Connect with Me
+### 💼 Featured Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sachin-budhathoki-8b2190311/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61559104186894" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="mailto:budhathokisachin143@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+#### 🏨 YatriGhar — Hotel Booking Platform  
+Built as my final-year project with AI integration.  
+🔹 **Tech**: HTML, JS, Python, ML  
+🔹 Features: Location filtering, booking flow, sentiment‑based hotel recommendations  
+🔗 [View on GitHub](https://github.com/sujanmagr/YatriGhar)
 
 ---
 
-### 🛠️ Tech Stack
+#### 📰 Ekantipur Automation QA  
+Automated login, signup, and article workflows for a news platform using Selenium & PyTest.  
+🔹 **Tech**: Python, POM, pytest  
+🔗 [View on GitHub](https://github.com/sujanmagr/ekantipur-automation)
+
+---
+
+#### 🛒 BareStyle — E‑commerce Automation  
+QA automation for a fashion e-commerce website focusing on key user flows.  
+🔹 Tested: Registration, navigation, cart, search  
+🔗 [View on GitHub](https://github.com/sujanmagr/barestyle-ecommerce-automation)
+
+---
+
+### 🧪 Tools & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTest-007ACC?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/JMeter-D42029?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-%230A0FFF?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
 
 ---
 
-### 🏆 Project Spotlight: YatriGhar
+### ✍️ Blog Articles
 
-🚗 A full-featured hotel booking platform built as my final-year project.  
-💡 Features:
-- Room listing, booking system, location filter  
-- Currently integrating hotel recommendation (AI)  
-- Sentiment analysis for guest reviews (coming soon)  
+📚 Coming Soon:  
+- *Getting Started with Selenium Using PyTest*  
+- *API Testing with Postman Collections*  
+- *JMeter Performance Tests on REST APIs*
 
-🔗 [View Repository](https://github.com/sujanmagr/YatriGhar)
-
----
-
-<details>
-  <summary>📁 Other Projects</summary>
-
-- 🔹 [Ekantipur Automation QA](https://github.com/sujanmagr/ekantipur-automation): Login/signup/article testing with Selenium  
-- 🔹 [Partner Portal QA Flow](https://github.com/sujanmagr/partner-portal-qa): Multi-step form automation & validation
-
-</details>
+📝 Have ideas you'd like me to write about? [Connect via LinkedIn](https://www.linkedin.com/in/sachin-budhathoki-8b2190311/)
 
 ---
 
-### 📄 Certifications & Badges
+### 💬 Testimonials
+
+> _"Sachin is one of the most committed QA engineers I’ve worked with — super detail-oriented."_  
+> — QA Mentor, Training Program
+
+> _"He goes beyond testing functionality — he questions the behavior."_  
+> — Peer Reviewer, Final-Year Project
+
+> _"His scripts were production-ready: robust, clear, maintainable."_  
+> — QA Lead, Internship Feedback
+
+---
+
+### 📄 Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/Selenium-Certified-brightgreen?style=for-the-badge"/>
@@ -87,12 +94,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sujanmagr&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujanmagr&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujanmagr&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
@@ -104,24 +110,14 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sujanmagr&label=Profile%20Views&icon=5&color=6" />
+  <img src="https://visitcount.itsvg.in/api?id=sujanmagr&label=Profile+Views&icon=5&color=6" />
 </p>
 
 ---
 
-### 🗺️ What’s Next for Me
+### 🌍 Want to know more about me?
 
-- 🚀 Finish ML integration in YatriGhar project  
-- 🧪 Write more real-world test cases from live projects  
-- 📄 Contribute to open-source QA repositories  
-- 🖼️ Improve UI testing with Selenium Grid & BrowserStack  
-- 📚 Write technical blogs on my learning journey
+👉 [Visit my Portfolio](https://portfolio-git-main-sachin-budhathokis-projects.vercel.app/)
 
 ---
 
-### 🙌 Thanks for visiting my profile!
-
-If you're into QA, testing, or automation — feel free to connect and chat!  
-_“Good testers don’t just find bugs, they prevent them.”_
-
----
